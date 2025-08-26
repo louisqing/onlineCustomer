@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="60px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip170">
+    <mask fill="white" id="clip10">
       <path d="M 418 238  C 401.35 238  388 224.65  388 208  L 388 208  C 388 191.35  401.35 178  418 178  L 418 178  C 434.65 178  448 191.35  448 208  L 448 208  C 448 224.65  434.65 238  418 238  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -388 -178 )">
-    <path d="M 388 178  L 448 178  L 448 238  L 388 238  L 388 178  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip170)" />
-    <path d="M 392 182  L 444 182  L 444 234  L 392 234  L 392 182  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip170)" />
-    <path d="M 423.7 196  C 421.18 196  419.2 194.02  419.2 191.5  C 419.2 188.98  421.18 187  423.7 187  C 426.22 187  428.2 188.98  428.2 191.5  C 428.2 194.02  426.22 196  423.7 196  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip170)" />
-    <path d="M 394 233  L 394 206.05  L 406.25 193.8  L 423.4 203.6  L 433.2 201.15  L 443 203.6  L 443 233  L 394 233  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip170)" />
+    <path d="M 388 178  L 448 178  L 448 238  L 388 238  L 388 178  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip10)" />
+    <path d="M 392 182  L 444 182  L 444 234  L 392 234  L 392 182  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip10)" />
+    <path d="M 423.7 196  C 421.18 196  419.2 194.02  419.2 191.5  C 419.2 188.98  421.18 187  423.7 187  C 426.22 187  428.2 188.98  428.2 191.5  C 428.2 194.02  426.22 196  423.7 196  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip10)" />
+    <path d="M 394 233  L 394 206.05  L 406.25 193.8  L 423.4 203.6  L 433.2 201.15  L 443 203.6  L 443 233  L 394 233  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip10)" />
   </g>
 </svg>
